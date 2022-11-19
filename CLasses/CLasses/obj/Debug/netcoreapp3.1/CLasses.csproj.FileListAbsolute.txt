@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\bin\Debug\netcoreapp3.1\CLasses.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\bin\Debug\netcoreapp3.1\CLasses.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\bin\Debug\netcoreapp3.1\CLasses.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\bin\Debug\netcoreapp3.1\CLasses.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\bin\Debug\netcoreapp3.1\CLasses.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\bin\Debug\netcoreapp3.1\CLasses.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\obj\Debug\netcoreapp3.1\CLasses.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\obj\Debug\netcoreapp3.1\CLasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\obj\Debug\netcoreapp3.1\CLasses.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\obj\Debug\netcoreapp3.1\CLasses.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\obj\Debug\netcoreapp3.1\CLasses.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\obj\Debug\netcoreapp3.1\CLasses.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\obj\Debug\netcoreapp3.1\CLasses.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise\CLasses\CLasses\obj\Debug\netcoreapp3.1\CLasses.genruntimeconfig.cache
