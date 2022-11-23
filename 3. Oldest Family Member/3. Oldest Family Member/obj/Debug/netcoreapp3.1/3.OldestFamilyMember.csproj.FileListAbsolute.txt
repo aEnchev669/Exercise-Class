@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3.OldestFamilyMember.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3.OldestFamilyMember.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3.OldestFamilyMember.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3.OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3.OldestFamilyMember.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3.OldestFamilyMember.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3.OldestFamilyMember.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3.OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3.OldestFamilyMember.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3.OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3.OldestFamilyMember.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3.OldestFamilyMember.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3. Oldest Family Member\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3.OldestFamilyMember.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\bin\Debug\netcoreapp3.1\2.CreatingConstructors.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\bin\Debug\netcoreapp3.1\2.CreatingConstructors.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\bin\Debug\netcoreapp3.1\2.CreatingConstructors.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\bin\Debug\netcoreapp3.1\2.CreatingConstructors.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\bin\Debug\netcoreapp3.1\2.CreatingConstructors.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\bin\Debug\netcoreapp3.1\2.CreatingConstructors.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\obj\Debug\netcoreapp3.1\2.CreatingConstructors.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\obj\Debug\netcoreapp3.1\2.CreatingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\obj\Debug\netcoreapp3.1\2.CreatingConstructors.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\obj\Debug\netcoreapp3.1\2.CreatingConstructors.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\obj\Debug\netcoreapp3.1\2.CreatingConstructors.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\obj\Debug\netcoreapp3.1\2.CreatingConstructors.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\obj\Debug\netcoreapp3.1\2.CreatingConstructors.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2.CreatingConstructors\2.CreatingConstructors\obj\Debug\netcoreapp3.1\2.CreatingConstructors.genruntimeconfig.cache

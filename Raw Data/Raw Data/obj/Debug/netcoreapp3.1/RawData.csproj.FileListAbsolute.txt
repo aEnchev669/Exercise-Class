@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\bin\Debug\netcoreapp3.1\RawData.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\bin\Debug\netcoreapp3.1\RawData.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\bin\Debug\netcoreapp3.1\RawData.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\bin\Debug\netcoreapp3.1\RawData.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\obj\Debug\netcoreapp3.1\RawData.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\obj\Debug\netcoreapp3.1\RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\obj\Debug\netcoreapp3.1\RawData.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\obj\Debug\netcoreapp3.1\RawData.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\obj\Debug\netcoreapp3.1\RawData.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\obj\Debug\netcoreapp3.1\RawData.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\obj\Debug\netcoreapp3.1\RawData.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Raw Data\Raw Data\obj\Debug\netcoreapp3.1\RawData.genruntimeconfig.cache

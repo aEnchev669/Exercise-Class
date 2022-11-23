@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4.OpinionPoll.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4.OpinionPoll.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4.OpinionPoll.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4.OpinionPoll.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4.OpinionPoll.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\bin\Debug\netcoreapp3.1\4.OpinionPoll.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4.OpinionPoll.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4.OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4.OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4.OpinionPoll.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4.OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4.OpinionPoll.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4.OpinionPoll.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Opinion Poll\4. Opinion Poll\obj\Debug\netcoreapp3.1\4.OpinionPoll.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1.DefineaClassPerson.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1.DefineaClassPerson.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1.DefineaClassPerson.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1.DefineaClassPerson.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1.DefineaClassPerson.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\bin\Debug\netcoreapp3.1\1.DefineaClassPerson.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1.DefineaClassPerson.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1.DefineaClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1.DefineaClassPerson.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1.DefineaClassPerson.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1.DefineaClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1.DefineaClassPerson.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1.DefineaClassPerson.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1. Define a Class Person\1. Define a Class Person\obj\Debug\netcoreapp3.1\1.DefineaClassPerson.genruntimeconfig.cache

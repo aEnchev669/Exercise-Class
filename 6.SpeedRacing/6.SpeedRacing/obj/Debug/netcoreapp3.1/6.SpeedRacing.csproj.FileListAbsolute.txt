@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\bin\Debug\netcoreapp3.1\6.SpeedRacing.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.SpeedRacing\6.SpeedRacing\obj\Debug\netcoreapp3.1\6.SpeedRacing.genruntimeconfig.cache
