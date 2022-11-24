@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\bin\Debug\netcoreapp3.1\04. Random List.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\04. Random List\04. Random List\obj\Debug\netcoreapp3.1\04. Random List.genruntimeconfig.cache
