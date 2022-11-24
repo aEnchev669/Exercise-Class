@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\bin\Debug\netcoreapp3.1\02. Multiple Inheritance.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\02. Multiple Inheritance\02. Multiple Inheritance\obj\Debug\netcoreapp3.1\02. Multiple Inheritance.genruntimeconfig.cache
