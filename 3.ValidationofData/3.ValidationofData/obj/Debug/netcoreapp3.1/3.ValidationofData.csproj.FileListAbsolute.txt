@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\bin\Debug\netcoreapp3.1\3.ValidationofData.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\bin\Debug\netcoreapp3.1\3.ValidationofData.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\bin\Debug\netcoreapp3.1\3.ValidationofData.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\bin\Debug\netcoreapp3.1\3.ValidationofData.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\bin\Debug\netcoreapp3.1\3.ValidationofData.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\bin\Debug\netcoreapp3.1\3.ValidationofData.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\obj\Debug\netcoreapp3.1\3.ValidationofData.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\obj\Debug\netcoreapp3.1\3.ValidationofData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\obj\Debug\netcoreapp3.1\3.ValidationofData.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\obj\Debug\netcoreapp3.1\3.ValidationofData.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\obj\Debug\netcoreapp3.1\3.ValidationofData.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\obj\Debug\netcoreapp3.1\3.ValidationofData.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\obj\Debug\netcoreapp3.1\3.ValidationofData.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.ValidationofData\3.ValidationofData\obj\Debug\netcoreapp3.1\3.ValidationofData.genruntimeconfig.cache

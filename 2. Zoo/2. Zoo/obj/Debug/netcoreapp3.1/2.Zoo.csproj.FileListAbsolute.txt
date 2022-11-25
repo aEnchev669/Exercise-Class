@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\bin\Debug\netcoreapp3.1\2.Zoo.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\bin\Debug\netcoreapp3.1\2.Zoo.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\bin\Debug\netcoreapp3.1\2.Zoo.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\bin\Debug\netcoreapp3.1\2.Zoo.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\bin\Debug\netcoreapp3.1\2.Zoo.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\bin\Debug\netcoreapp3.1\2.Zoo.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\obj\Debug\netcoreapp3.1\2.Zoo.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\obj\Debug\netcoreapp3.1\2.Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\obj\Debug\netcoreapp3.1\2.Zoo.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\obj\Debug\netcoreapp3.1\2.Zoo.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\obj\Debug\netcoreapp3.1\2.Zoo.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\obj\Debug\netcoreapp3.1\2.Zoo.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\obj\Debug\netcoreapp3.1\2.Zoo.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Zoo\2. Zoo\obj\Debug\netcoreapp3.1\2.Zoo.genruntimeconfig.cache

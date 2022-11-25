@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4.NeedforSpeed.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4.NeedforSpeed.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4.NeedforSpeed.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4.NeedforSpeed.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4.NeedforSpeed.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\bin\Debug\netcoreapp3.1\4.NeedforSpeed.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4.NeedforSpeed.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4.NeedforSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4.NeedforSpeed.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4.NeedforSpeed.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4.NeedforSpeed.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4.NeedforSpeed.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4.NeedforSpeed.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Need for Speed\4. Need for Speed\obj\Debug\netcoreapp3.1\4.NeedforSpeed.genruntimeconfig.cache

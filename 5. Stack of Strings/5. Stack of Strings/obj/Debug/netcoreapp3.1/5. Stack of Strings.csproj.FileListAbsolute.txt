@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\bin\Debug\netcoreapp3.1\5. Stack of Strings.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\bin\Debug\netcoreapp3.1\5. Stack of Strings.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\bin\Debug\netcoreapp3.1\5. Stack of Strings.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\bin\Debug\netcoreapp3.1\5. Stack of Strings.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\bin\Debug\netcoreapp3.1\5. Stack of Strings.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\bin\Debug\netcoreapp3.1\5. Stack of Strings.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\obj\Debug\netcoreapp3.1\5. Stack of Strings.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\obj\Debug\netcoreapp3.1\5. Stack of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\obj\Debug\netcoreapp3.1\5. Stack of Strings.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\obj\Debug\netcoreapp3.1\5. Stack of Strings.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\obj\Debug\netcoreapp3.1\5. Stack of Strings.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\obj\Debug\netcoreapp3.1\5. Stack of Strings.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\obj\Debug\netcoreapp3.1\5. Stack of Strings.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\5. Stack of Strings\5. Stack of Strings\obj\Debug\netcoreapp3.1\5. Stack of Strings.genruntimeconfig.cache

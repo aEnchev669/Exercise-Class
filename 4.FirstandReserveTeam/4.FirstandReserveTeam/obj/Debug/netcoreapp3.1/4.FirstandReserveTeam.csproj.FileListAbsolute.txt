@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\bin\Debug\netcoreapp3.1\4.FirstandReserveTeam.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\bin\Debug\netcoreapp3.1\4.FirstandReserveTeam.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\bin\Debug\netcoreapp3.1\4.FirstandReserveTeam.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\bin\Debug\netcoreapp3.1\4.FirstandReserveTeam.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\bin\Debug\netcoreapp3.1\4.FirstandReserveTeam.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\bin\Debug\netcoreapp3.1\4.FirstandReserveTeam.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\obj\Debug\netcoreapp3.1\4.FirstandReserveTeam.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\obj\Debug\netcoreapp3.1\4.FirstandReserveTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\obj\Debug\netcoreapp3.1\4.FirstandReserveTeam.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\obj\Debug\netcoreapp3.1\4.FirstandReserveTeam.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\obj\Debug\netcoreapp3.1\4.FirstandReserveTeam.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\obj\Debug\netcoreapp3.1\4.FirstandReserveTeam.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\obj\Debug\netcoreapp3.1\4.FirstandReserveTeam.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4.FirstandReserveTeam\4.FirstandReserveTeam\obj\Debug\netcoreapp3.1\4.FirstandReserveTeam.genruntimeconfig.cache

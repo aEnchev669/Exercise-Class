@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\bin\Debug\netcoreapp3.1\8.CarSalesman.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\bin\Debug\netcoreapp3.1\8.CarSalesman.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\bin\Debug\netcoreapp3.1\8.CarSalesman.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\bin\Debug\netcoreapp3.1\8.CarSalesman.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\bin\Debug\netcoreapp3.1\8.CarSalesman.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\bin\Debug\netcoreapp3.1\8.CarSalesman.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\obj\Debug\netcoreapp3.1\8.CarSalesman.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\obj\Debug\netcoreapp3.1\8.CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\obj\Debug\netcoreapp3.1\8.CarSalesman.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\obj\Debug\netcoreapp3.1\8.CarSalesman.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\obj\Debug\netcoreapp3.1\8.CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\obj\Debug\netcoreapp3.1\8.CarSalesman.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\obj\Debug\netcoreapp3.1\8.CarSalesman.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\8.CarSalesman\8.CarSalesman\obj\Debug\netcoreapp3.1\8.CarSalesman.genruntimeconfig.cache

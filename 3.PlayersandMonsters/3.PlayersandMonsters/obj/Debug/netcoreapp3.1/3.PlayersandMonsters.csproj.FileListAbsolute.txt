@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\bin\Debug\netcoreapp3.1\3.PlayersandMonsters.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\bin\Debug\netcoreapp3.1\3.PlayersandMonsters.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\bin\Debug\netcoreapp3.1\3.PlayersandMonsters.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\bin\Debug\netcoreapp3.1\3.PlayersandMonsters.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\bin\Debug\netcoreapp3.1\3.PlayersandMonsters.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\bin\Debug\netcoreapp3.1\3.PlayersandMonsters.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\obj\Debug\netcoreapp3.1\3.PlayersandMonsters.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\obj\Debug\netcoreapp3.1\3.PlayersandMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\obj\Debug\netcoreapp3.1\3.PlayersandMonsters.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\obj\Debug\netcoreapp3.1\3.PlayersandMonsters.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\obj\Debug\netcoreapp3.1\3.PlayersandMonsters.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\obj\Debug\netcoreapp3.1\3.PlayersandMonsters.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\obj\Debug\netcoreapp3.1\3.PlayersandMonsters.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\3.PlayersandMonsters\3.PlayersandMonsters\obj\Debug\netcoreapp3.1\3.PlayersandMonsters.genruntimeconfig.cache
