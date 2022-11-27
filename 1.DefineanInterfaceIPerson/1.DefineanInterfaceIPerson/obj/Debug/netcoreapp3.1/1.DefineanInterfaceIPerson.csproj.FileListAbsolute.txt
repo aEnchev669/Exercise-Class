@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\1.DefineanInterfaceIPerson\1.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\1.DefineanInterfaceIPerson.genruntimeconfig.cache

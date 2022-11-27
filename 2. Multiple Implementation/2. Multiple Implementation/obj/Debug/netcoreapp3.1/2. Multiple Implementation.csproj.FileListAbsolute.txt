@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\bin\Debug\netcoreapp3.1\2. Multiple Implementation.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\bin\Debug\netcoreapp3.1\2. Multiple Implementation.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\bin\Debug\netcoreapp3.1\2. Multiple Implementation.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\bin\Debug\netcoreapp3.1\2. Multiple Implementation.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\bin\Debug\netcoreapp3.1\2. Multiple Implementation.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\bin\Debug\netcoreapp3.1\2. Multiple Implementation.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\obj\Debug\netcoreapp3.1\2. Multiple Implementation.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\obj\Debug\netcoreapp3.1\2. Multiple Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\obj\Debug\netcoreapp3.1\2. Multiple Implementation.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\obj\Debug\netcoreapp3.1\2. Multiple Implementation.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\obj\Debug\netcoreapp3.1\2. Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\obj\Debug\netcoreapp3.1\2. Multiple Implementation.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\obj\Debug\netcoreapp3.1\2. Multiple Implementation.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\2. Multiple Implementation\2. Multiple Implementation\obj\Debug\netcoreapp3.1\2. Multiple Implementation.genruntimeconfig.cache
