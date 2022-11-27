@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\Exercise---Class\\3. Telephony\\3. Telephony\\3.Telephony.csproj",
-      "projectName": "3.Telephony",
-      "projectPath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\Exercise---Class\\3. Telephony\\3. Telephony\\3.Telephony.csproj",
+      "projectUniqueName": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\Exercise---Class\\Telefone\\Telefone\\Telefone.csproj",
+      "projectName": "Telefone",
+      "projectPath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\Exercise---Class\\Telefone\\Telefone\\Telefone.csproj",
       "packagesPath": "C:\\Users\\aench\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\Exercise---Class\\3. Telephony\\3. Telephony\\obj\\",
+      "outputPath": "C:\\Users\\aench\\OneDrive\\Документи\\GitHub\\Exercise---Class\\Telefone\\Telefone\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

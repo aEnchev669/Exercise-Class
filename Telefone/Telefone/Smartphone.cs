@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Telephony
+{
+    public class Smartphone : ISmartphone
+    {
+        
+        public void Browsing(string[] urls)
+        {
+            foreach (var item in urls)
+            {
+                if (IsValid(item))
+                {
+                    Console.WriteLine($"Browsing: {item}!");
+                }
+                else
+                {
+                    Console.WriteLine($"Invalid URL!");
+                }
+            }
+        }
+
+        public void Calling(string number)
+        {
+            Console.WriteLine($"Calling... {number}");
+        }
+
+        public bool IsValid(string url)
+        {
+            foreach (char item in url)
+            {
+                if (char.IsDigit(item))
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+    }
+}

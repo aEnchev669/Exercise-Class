@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\bin\Debug\netcoreapp3.1\Telefone.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\bin\Debug\netcoreapp3.1\Telefone.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\bin\Debug\netcoreapp3.1\Telefone.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\bin\Debug\netcoreapp3.1\Telefone.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\bin\Debug\netcoreapp3.1\Telefone.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\bin\Debug\netcoreapp3.1\Telefone.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\obj\Debug\netcoreapp3.1\Telefone.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\obj\Debug\netcoreapp3.1\Telefone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\obj\Debug\netcoreapp3.1\Telefone.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\obj\Debug\netcoreapp3.1\Telefone.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\obj\Debug\netcoreapp3.1\Telefone.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\obj\Debug\netcoreapp3.1\Telefone.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\obj\Debug\netcoreapp3.1\Telefone.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telefone\Telefone\obj\Debug\netcoreapp3.1\Telefone.genruntimeconfig.cache

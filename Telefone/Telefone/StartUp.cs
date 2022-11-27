@@ -18,7 +18,7 @@ namespace Telephony
                 {
                     smartphone.Calling(number);
                 }
-                else if(number.Length == 7)
+                else
                 {
                     stationaryPhone.Calling(number);
                 }
