@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\bin\Debug\netcoreapp3.1\4. Border Control.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\4. Border Control\4. Border Control\obj\Debug\netcoreapp3.1\4. Border Control.genruntimeconfig.cache
