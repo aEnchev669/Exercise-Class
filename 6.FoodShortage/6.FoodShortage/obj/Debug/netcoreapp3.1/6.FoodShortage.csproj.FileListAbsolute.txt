@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\bin\Debug\netcoreapp3.1\6.FoodShortage.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\bin\Debug\netcoreapp3.1\6.FoodShortage.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\bin\Debug\netcoreapp3.1\6.FoodShortage.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\bin\Debug\netcoreapp3.1\6.FoodShortage.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\bin\Debug\netcoreapp3.1\6.FoodShortage.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\bin\Debug\netcoreapp3.1\6.FoodShortage.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\obj\Debug\netcoreapp3.1\6.FoodShortage.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\obj\Debug\netcoreapp3.1\6.FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\obj\Debug\netcoreapp3.1\6.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\obj\Debug\netcoreapp3.1\6.FoodShortage.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\obj\Debug\netcoreapp3.1\6.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\obj\Debug\netcoreapp3.1\6.FoodShortage.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\obj\Debug\netcoreapp3.1\6.FoodShortage.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\6.FoodShortage\6.FoodShortage\obj\Debug\netcoreapp3.1\6.FoodShortage.genruntimeconfig.cache
