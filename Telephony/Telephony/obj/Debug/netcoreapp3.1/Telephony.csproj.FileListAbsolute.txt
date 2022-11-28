@@ -1,0 +1,14 @@
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\aench\OneDrive\Документи\GitHub\Exercise---Class\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

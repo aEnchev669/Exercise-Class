@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Telephony
@@ -27,16 +28,6 @@ namespace Telephony
             Console.WriteLine($"Calling... {number}");
         }
 
-        public bool IsValid(string url)
-        {
-            foreach (char item in url)
-            {
-                if (char.IsDigit(item))
-                {
-                    return false;
-                }
-            }
-            return true;
-        }
+        public bool IsValid(string url) => url.Any(u => char.IsDigit(u));
     }
 }
